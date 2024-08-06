@@ -6,7 +6,7 @@
 - 📫 How to reach me **nguyenthanhlam71204@gmail.com**
 
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me for job through: https://www.linkedin.com/in/thanhlam43k4/</h3>
 <p align="left">
 </p>
 
