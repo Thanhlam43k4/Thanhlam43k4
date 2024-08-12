@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanh Lam</h1>
-<h3 align="center">I'm updating my life with my enthusiastic about **Cloud Industrial**</h3>
+<h3 align="center">I'm updating my life with my enthusiastic about Cloud Industrial</h3>
 
 - 🌱 I’m currently learning **Linux**
 
